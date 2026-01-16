@@ -18,6 +18,11 @@
   
   <p>We cover <strong>Islamabad, Rawalpindi, and nearby areas</strong>. Every inquiry is handled with <strong>privacy and discretion</strong>.</p>
   
-  <p>If you are searching for <strong>safe and trusted escort services in Islamabad</strong>, contact <strong>0345 9992246</strong> today via Call or WhatsApp.</p>
+  <hr>
+  <p>See other variations:</p>
+  <ul>
+    <li><a href="page1.html">Variation 1</a></li>
+    <li><a href="page2.html">Variation 2</a></li>
+  </ul>
 </body>
 </html>
