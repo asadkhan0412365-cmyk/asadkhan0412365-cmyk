@@ -1,16 +1,23 @@
-## Hi there 👋
-
-<!--
-**asadkhan0412365-cmyk/asadkhan0412365-cmyk** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <meta name="description" content="Escort Services in Islamabad. Contact 0345 9992246 via Call or WhatsApp. Privacy and discretion ensured.">
+  <title>Escort Services in Islamabad – Contact 0345 9992246</title>
+</head>
+<body>
+  <h1>Escort Services in Islamabad – Contact 0345 9992246</h1>
+  
+  <p>Looking for <strong>escort services in Islamabad</strong>? You can contact <strong>0345 9992246</strong> via:</p>
+  
+  <ul>
+    <li>📞 <a href="tel:+923459992246">Call Now</a></li>
+    <li>💬 <a href="https://wa.me/923459992246" target="_blank">WhatsApp</a></li>
+  </ul>
+  
+  <p>We cover <strong>Islamabad, Rawalpindi, and nearby areas</strong>. All inquiries are handled with <strong>privacy and discretion</strong>.</p>
+  
+  <p>If you are searching for <strong>trusted escort services in Islamabad</strong>, contact <strong>0345 9992246</strong> today. Our team provides accurate guidance and ensures confidentiality for every client.</p>
+</body>
+</html>
