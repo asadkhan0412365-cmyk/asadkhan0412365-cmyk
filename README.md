@@ -1,6 +1,7 @@
 <!DOCTYPE html>
 <html lang="en">
 <head>
+  <meta name="google-site-verification" content="TlRP754192b3rJ6EpVmaTs5wF1XCr-0KmeuKPAbaFQs" />
   <meta charset="UTF-8">
   <meta name="viewport" content="width=device-width, initial-scale=1.0">
   <meta name="description" content="Escort Services in Islamabad. Contact 0345 9992246 via Call or WhatsApp. Privacy and discretion ensured.">
